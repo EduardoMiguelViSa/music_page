@@ -1,0 +1,64 @@
+<html>
+ <head>
+  <title bgcolor="blue">Twenty One Pilots Contacto</title>
+<link rel="shortcut icon" href="http://www.twentyonepilots.com/sites/g/files/g2000004896/themes/mythemes/acq_starterm_copy_2/images/favicon_5.ico" type="image/vnd.microsoft.icon" />
+ </head>
+<style> 
+a{text-decoration:none} 
+</style>
+<style>
+.cambioColor {color:white;}
+.cambioColor:hover {color:#E94545;}
+</style>
+<style>
+.cambioColor1 {color:#E94545;}
+.cambioColor1:hover {color:white;}
+</style>
+ <body background="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/FondoM.gif">
+<center>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Pág. Extras/Top.html"><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/To.gif" width="200"></center></a>
+</center>
+<center>
+<p><table>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+</table>
+</center>
+<center>
+<font face="century gothic">
+<p><table align="left" width="500">
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+<td><h1><b><font color="white">>></font> <font color="#E94545">CØNTACTØ<font color="white">:</font></font></b></h1></td><table>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+</table>
+
+<table align="center">
+<td><b><h2><center><font color="#E94545">-</font> <font color="white">Redes sociales</font> <font color="#E94545">-</font></center></h2></b></td>
+</table>
+
+<center>
+<table align="center" width="200">
+<td><a href="https://www.facebook.com/twentyonepilots" TARGET="_new"><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Fb.gif" width="55"></center></a></td>
+<td><a href="https://twitter.com/twentyonepilots" TARGET="_new"><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Tt.gif" width="55"></center></a></td>
+<td><a href="https://www.instagram.com/twentyonepilots/" TARGET="_new"><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/In.gif" width="55"></center></a></td>
+<td><a href="https://www.youtube.com/channel/UCBQZwaNPFfJ1gZ1fLZpAEGw" TARGET="_new"><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Yt1.gif" width="60"></center></a></td>
+<td><a href="https://itunes.apple.com/us/artist/twenty-one-pilots/id349736311" TARGET="_new"><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Ap1.gif" width="40"></center></a></td>
+<td><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx?play=true&utm_source=open.spotify.com&utm_medium=open&autoplay=true" TARGET="_new"><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Sp1.gif" width="40"></center></a></td>
+</table>
+ </body>
+</html>

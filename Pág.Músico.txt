@@ -1,0 +1,116 @@
+<html>
+ <head>
+  <title bgcolor="blue">Artistas</title>
+<link rel="shortcut icon" href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Mu.gif" type="image/vnd.microsoft.icon" />
+ </head>
+<style> 
+a{text-decoration:none} 
+</style>
+<style>
+.cambioColor {color:#E94545;}
+.cambioColor:hover {color:black;}
+</style>
+<style>
+.cambioColor1 {color:white;}
+.cambioColor1:hover {color:black;}
+</style>
+ <body background="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Fondo1.gif">
+ <center>	
+<table>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+</table>
+</center>
+<center>
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/M1.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/M2.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/M3.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/M4.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/M5.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/M6.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/M7.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/M8.gif" width="160">
+</center>
+<center>
+<table>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+</table>
+</center>
+
+<center>
+<table width="1110">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td><center><b><h1><font face="century gothic" color="white"><<</td>
+<td><center><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im.gif" width="250"></td>
+<td><center><b><h1><font face="century gothic" color="white">>></td>
+<td></td><td></td><td></td><td></td><td></td><td></td>
+<td><center><b><h1><font face="century gothic" color="white"><<</td>
+<td><center><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Cp.gif" width="155"></td>
+<td><center><b><h1><font face="century gothic" color="white">>></td>
+<td></td><td></td><td></td><td></td><td></td><td></td>
+<td><center><b><h1><font face="century gothic" color="white"><<</td>
+<td><center><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Logo.gif" width="230"></td>
+<td><center><b><h1><font face="century gothic" color="white">>></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td><center><b><h1><font face="century gothic" color="black"><<</td>
+<td><center><b><h1><a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Pág. Extras/Im.html"><font face="century gothic"><p class="cambioColor">Imagine Dragons</p></a></h1></b></td>
+<td><center><b><h1><font face="century gothic" color="black">>></td>
+<td></td><td></td><td></td><td></td><td></td><td></td>
+<td><center><b><h1><font face="century gothic" color="black"><<</td>
+<td><center><b><h1><a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Pág. Extras/Cp.html"><font face="century gothic"><p class="cambioColor">Coldplay</p></a></h1></b></td>
+<td><center><b><h1><font face="century gothic" color="black">>></td>
+<td></td><td></td><td></td><td></td><td></td><td></td>
+<td><center><b><h1><font face="century gothic" color="black"><<</td>
+<td><center><b><h1><a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Pág. Extras/Top.html"><font face="century gothic"><p class="cambioColor">Twenty One Pilots</p></a></h1></b></td>
+<td><center><b><h1><font face="century gothic" color="black">>></td>
+</tr>
+</table>
+</center>
+ </body>
+</html>

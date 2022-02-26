@@ -1,0 +1,109 @@
+<html>
+ <head>
+  <title bgcolor="blue">Twenty One Pilots Música</title>
+<link rel="shortcut icon" href="http://www.twentyonepilots.com/sites/g/files/g2000004896/themes/mythemes/acq_starterm_copy_2/images/favicon_5.ico" type="image/vnd.microsoft.icon" />
+ </head>
+<style> 
+a{text-decoration:none} 
+</style>
+<style>
+.cambioColor {color:white;}
+.cambioColor:hover {color:#E94545;}
+</style>
+<style>
+.cambioColor1 {color:#E94545;}
+.cambioColor1:hover {color:white;}
+</style>
+ <body background="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/FondoM.gif">
+<center>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico/Pág. Extras/Top.html"><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/To.gif" width="200"></center></a>
+</center>
+<center>
+<p><table>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+</table>
+</center>
+<center>
+<font face="century gothic">
+<p><table align="left" width="500">
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+<td><h1><b><font color="white">>></font> <font color="#E94545">CANCIØNES<font color="white">:</font></font></b></h1></td><table>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+<td><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Li.gif" width="160"></td>
+</table>
+
+<p><table aling="right">
+<td><h4><b><a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Pág. Extras/Música.html"><p class="cambioColor1">Anterior</p></a></b></h4></td>
+<td><h4><font color="white">-</font></h4></td>
+<td><h4><b> <font color="#E9454">1</font></b></h4></td>
+<td><h4><font color="white">-</font></h4></td>
+<td><h4><b><font color="white">2</font></b></h4></td>
+</table>
+
+<table align="center">
+<tr>
+<td><b><h2><center><font color="#E94545">-</font> <font color="white">Regional At Best</font> <font color="#E94545">-</font></center></h2></b></td>
+</tr>
+<tr>
+<td><center><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Rb.gif" width="300" title="Regional At Best"></center></td>
+</tr>
+<tr>
+<td><center><font color="white">8 de julio de 2011</font></center></td>
+</tr>
+<tr>
+<td>
+<br><center><b><font color="white">*</font> <font color="#E9454">Canciones</font> <font color="white">*</font></b></center>
+<br><font color="#E9454">1.</font>      <font color="white">«Slowtown»     <font color="#E9454">4:57</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Slowtown.mp3" download="Slowtown"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+
+<br><font color="#E9454">2.</font>	<font color="white">«Forest»     <font color="#E9454">4:10</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Forest.mp3" download="Forest"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+
+<br><font color="#E9454">3.</font>	<font color="white">«Glowing Eyes»     <font color="#E9454">4:26</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Glowing_Eyes.mp3" download="Glowing Eyes"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+
+<br><font color="#E9454">4.</font>	<font color="white">«Kitchen Sink»     <font color="#E9454">5:33</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Kitchen_Sink.mp3" download="Kitchen Sink"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+
+<br><font color="#E9454">5.</font>	<font color="white">«Anathema»     <font color="#E9454">3:59</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Anathema.mp3" download="Anathema"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+
+<br><font color="#E9454">6.</font>	<font color="white">«Lovely»     <font color="#E9454">4:20</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Lovely.mp3" download="Lovely"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+
+<br><font color="#E9454">7.</font>	<font color="white">«Ruby»     <font color="#E9454">4:30</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Ruby.mp3" download="Ruby"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+
+<br><font color="#E9454">8.</font>	<font color="white">«Be Concerned»     <font color="#E9454">4:07</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Be_Concerned.mp3" download="Be Concerned"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+
+<br><font color="#E9454">9.</font>	<font color="white">«Clear»     <font color="#E9454">3:38</font>
+<a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Música/Clear.mp3" download="Clear"><img src="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Dl.gif" width="15"></a>
+</td>
+</tr>
+</table>
+
+<p><table aling="right">
+<td><h4><b><a href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Pág. Extras/Música.html"><p class="cambioColor1">Anterior</p></a></b></h4></td>
+<td><h4><font color="white">-</font></h4></td>
+<td><h4><b> <font color="#E9454">1</font></b></h4></td>
+<td><h4><font color="white">-</font></h4></td>
+<td><h4><b><font color="white">2</font></b></h4></td>
+</table>
+ </body>
+</html>
