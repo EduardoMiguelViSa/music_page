@@ -1,0 +1,169 @@
+<html>
+ <head>
+  <title bgcolor="blue">Imagine Dragons</title>
+<link rel="shortcut icon" href="https://www.imaginedragonsmusic.com/sites/g/files/aaj1001/f/favicon.jpg" type="image/jpeg" />
+ </head>
+<style> 
+a{text-decoration:none} 
+</style>
+<style>
+.cambioColor {color:#E94545;}
+.cambioColor:hover {color:white;}
+</style>
+<style>
+.cambioColor1 {color:white;}
+.cambioColor1:hover {color:black;}
+</style>
+ <body  background="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Fondoim.gif">
+
+ <center>
+<A href="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico/Pág. Extras/Im.html"><center><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Imlogo.gif"  width="300"></center></a>	
+<table>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+</table>
+</center>
+<center>
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im1.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im2.gif" width="160">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im3.gif" width="135">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im4.gif" width="140">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im5.gif" width="135">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im6.gif" width="140">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im7.gif" width="140">
+<IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Im8.gif" width="145">
+</center>
+<center>
+<table>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+</table>
+</center>
+<center>
+<table align="center" WIDTH=100%>
+<tr>
+<td><center><img SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Impersona.png"width="500"></center></td>
+</tr>
+<tr>
+<td bgcolor="#000000"><center><h2><font face="century gothic" color="#E94545"><b>>></font> <font face="century gothic" color="white"><b>BIOGRAFÍA DE IMAGINE DRAGONS</font> <font face="century gothic" color="#E94545"><b><<</b></font></h2></center></td>
+</tr>
+<tr>
+<td bgcolor="#000000"><center><font face="century gothic" color="white"><font color="gray"><b>Imagine Dragons</font></b> es una banda estadounidense de rock originaria de Las Vegas, Nevada. Actualmente está compuesta por Dan Reynolds (vocalista), Wayne Sermon (guitarrista), Ben McKee (bajista) y Daniel Platzman (baterista). La banda ganó el reconocimiento mundial con el lanzamiento de su álbum de estudio debut Night Visions (2012), y con su sencillo "It's Time". Billboard colocó a Imagine Dragons en la cima de su ranking del 2013 "Year In Rock", además los llamó «la banda revelación del 2013». La revista Rolling Stone llamó a su sencillo Radioactive de Night Visions «el mayor éxito rock del año». MTV los llamó «la banda revelación del año». Night Visions alcanzó su punto máximo en el número dos de la lista semanal Billboard 200 y en UK Albums Chart. Su segundo álbum de estudio, Smoke + Mirrors, alcanzó el número uno en los Estados Unidos, Canadá y el Reino Unido.
+<p>Imagine Dragons ganó dos American Music Awards por "Artista Alternativo Favorito", un premio Grammy a la mejor interpretación rock, cinco premios Billboard Music Awards y un premio World Music Award. En mayo de 2014, la banda obtuvo un total de catorce nominaciones en diferentes categorías en los Billboard Music Awards, incluyendo "Top Artist of the Year" y un Milestone Award, el cual reconoce la innovación y la creatividad de vatios artistas a través de diferentes géneros.
+<p>Hasta enero de 2017, Imagine Dragons había vendido 9 millones de copias de sus álbumes, y 27 millones en sencillos.
+
+<font color="#E94545"><b><h3>-</font> <font color="white">Historia</font> <font color="#E94545">-</h3></b></font>
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Primeros años (2008–2011)</font> <font color="white">*</h4></b></font>
+
+En 2008, el vocalista Dan Reynolds conoció al baterista Andrew Tolman en la Universidad Brigham Young donde ambos eran estudiantes. Reynolds y Tolman añadieron a Andrew Beck, Dave Lemke, y Aurora Florence para tocar la guitarra, el bajo, y el piano, respectivamente. Su nombre es un anagrama de una frase conocida solamente por los miembros del grupo, que, según Reynolds, había sido aprobada por toda la agrupación. El quinteto lanzó un "extended play" titulado Speak to Me ese mismo año. Beck y Florence salieron de la banda ese año. En 2009, Tolman reclutó a Wayne Sermon, su viejo amigo de la escuela secundaria, que se había graduado de Berklee College of Music, para tocar la guitarra. Tolman más tarde reclutó a su esposa, Brittany Tolman, para cantar en los coros. Lemke dejó la banda más adelante, al mismo tiempo que Sermon reclutaba a otro estudiante de música de Berklee, Ben McKee, para trabajar como el bajista y terminar la formación. La banda ganó un gran número de seguidores en su ciudad natal, Provo, Utah, antes de que los miembros se trasladaran a Las Vegas, la ciudad natal de Dan Reynolds, donde la banda grabó y lanzó sus primeros tres EPs.
+<p>La banda lanzó los EPs titulados Imagine Dragons y Hell and Silence en 2010, ambos grabados en Battle Born Studios, en Las Vegas. Regresaron al estudio en 2011. El tercer EP, It's Time, se hizo antes de firmar un contrato discográfico.
+<p>Tuvieron su primer gran concierto cuando el vocalista de Train, Pat Monahan, cayó enfermo justo antes del Bite of Las Vegas Festival 2009. Imagine Dragons fue llamado para presentarse frente a una multitud de más de 26,000 personas. Lograron obtener varios premios locales, tales como "Mejor CD de 2011" (Vegas SEVEN), "Mejor banda indie local" en 2010 (Las Vegas Weekly),18 "Newest Must See Live Act" de las Vegas (Las Vegas CityLife), Vegas Music Summit Headliner de 2010. En noviembre de 2011 firmaron con Interscope Records y comenzaron a trabajar con el productor inglés, ganador del Grammy, Alex da Kid. Eventualmente los Tolman dejarían el grupo y Daniel Platzman sería reclutado en agosto de 2011 por invitación de Ben McKee, junto a la tecladista Theresa Flaminio; antes de la firma del contrato discográfico de la banda en noviembre de 2011.
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Éxito internacional y Night Visions (2012–2014)</font> <font color="white">*</h4></b></font>
+
+Theresa Flaminio partió de Imagine Dragons a principios de 2012, dejándolos como un cuarteto. La banda trabajó en estrecha colaboración con Alex da Kid, con quien grabaron su primer gran lanzamiento en Westlake Recording Studios en West Hollywood, California. Un EP titulado Continued Silence fue lanzado el día de San Valentín (14 de febrero de 2012) digitalmente y alcanzó el número 40 en el Billboard 200. La banda también lanzó otro EP titulado Hear Me en 2012.
+<p>Poco después, "It's Time" fue lanzado como single y alcanzó el puesto número 15 en el Billboard Hot 100.22 El video musical se estrenó el 17 de abril de 2012 en todos los afiliados de MTV y posteriormente fue nominado para un MTV Video Music Award en la categoría de "Mejor Video de Rock". "It's Time" fue certificado como doble platino por la RIAA.
+<p>La banda terminó de grabar su álbum debut Night Visions en el verano de 2012 en Studio X dentro del Palms Casino Resort y lo lanzó en Estados Unidos el día 4 de septiembre de 2012. Alcanzó el número 2 en el Billboard 200 con cerca de 83.000 copias vendidas en su primer semana, la más alta cantidad para un álbum debut de rock desde 2006. El álbum también alcanzó el No. 1 en los listados de ventas de álbumes de Billboard, Alternative y Rock, así como también logró entrar al "top ten" de las listas australianas, austríacas, canadienses, holandesas, alemanas, irlandesas, noruegas, portuguesas, escocesas, españolas y británicas. Ganó un Billboard Music Award por "Top Rock Album" y fue nominado para un Premio Juno por "Álbum Internacional del Año". Night Visions fue certificado platino por la RIAA, así como también en Australia, Austria, Brasil, Canadá, México, Nueva Zelanda, Polonia, Portugal, Suecia, Suiza y el Reino Unido. El álbum produjo tres temas que llegaron al Billboard Top 40, cuatro sencillos en el Top 40 de ARIA y cinco temas en el Top 40 del Reino Unido.
+<p>El segundo sencillo del álbum "Radioactive" alcanzó el primer lugar en las listas Billboard Alternative Songs, Billboard Rock Songs y la lista de éxitos musicales de Suecia, y ha vendido más de siete millones de copias en Estados Unidos, rompiendo récords al pasar 87 semanas en el Billboard Hot 100. "Radioactive" se mantuvo en el número 1 de la lista Hot Rock Songs estableciendo un nuevo récord de 23 semanas y, en última instancia, se convirtió en el mayor éxito, dentro del género, de 2013. Alcanzó el puesto número 3, convirtiéndose en su primer top ten en Estados Unidos y rompió el récord de la estancia más larga entre los cinco primeros. Es la canción de rock más vendida en la lista que recaba Nielsen SoundScan. A finales de 2013, "Radioactive" ya había vendido más de 3 millones de copias. Rolling Stone lo llamó "el mayor éxito de rock del año". También fue la canción con más "stream" de 2013 en Spotify en los Estados Unidos. Fue nominada para el premio Grammy por "Grabación del Año" y por "Mejor Interpretación Rock" en la edición número 56 de su ceremonia anual, ganando el último de los dos. En 2015, fue certificado como diamante por la RIAA por la venta de más de 10 millones de copias en los Estados Unidos.
+<p>El tercer sencillo "Demons" alcanzó el primer lugar en Billboard Pop Songs y No. 6 en el Billboard Hot 100 y ha vendido más de 5 millones de copias en Estados Unidos hasta la fecha.
+<p>Billboard los enumeró como uno de "Las estrellas más brillantes de 2012" y más adelante "La banda revelación del año" en 2013. Imagine Dragons, en 2014, ganó varios premios Billboard Music Awards por Top Duo / Group, Top 100 Hot Artist, y Top Rock Artist. Amazon.com llamó a la banda su "artista de rock favorito de 2012".
+<p>En 2013, Imagine Dragons volvió a Europa y América del Norte con el Night Visions Tours. La banda anunció 13 fechas adicionales s su tour de verano de los Estados Unidos que también agotaron. La banda entonces anunció un tour de en anfiteatros por Norteamérica. La banda también confirmó que no podían cumplir la solicitud de presentarse junto a Muse. Pollstar enumeró a la banda en su lista de los 20 mejores "tours" por la taquilla promedio que logró recaudar, a pesar de que el precio del boleto es el tercero más bajo en la lista.
+<p>La banda lanzó un álbum en vivo, Live at Independent Records, en abril de 2013.
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Smoke + Mirrors (2014 – 2016)</font> <font color="white">*</h4></b></font>
+
+En el Lollapalooza de Sao Paulo, Brasil, la última fecha del Into the Night Tour, la banda anunció un descanso, y además agregó : "Este es nuestro último show por un tiempo, y no hay mejor lugar para terminar esta gira". La conclusión del Into the Night Tour marcó el final del ciclo del álbum Night Visions. El vocalista Dan Reynolds bromeó sobre el fin del ciclo de Night Visions, diciendo que "Nosotros siempre estamos escribiendo en la carretera, [Así que] ese segundo álbum vendrá, a menos que nos mueramos a la edad de 27, el año que viene. Si tenemos suerte no moriremos y habrá un segundo álbum, no sé cuando será, pero puede venir "
+<p>La idea detrás del segundo álbum de estudio, al que tomaron como "Su propósito de Año Nuevo", era crear música y terminarla cuando la banda sintiera conveniente. Reynolds dijo a MTV en el 2014 que la banda quería "sacar un disco con el que estemos muy contentos". Dijo además que "tendemos a ser perfeccionistas, demasiado duros con nosotros mismos a veces, y no queremos apresurar nada porque sabemos como van las cosas. No queremos sacar un nuevo material hasta que realmente nos sintamos bien con él, ya sabes, y quién sabe cuánto tiempo tomará ". Desde el inicio del Night Visions Tour, la banda había estado escribiendo nuevo material para un próximo álbum; ya en la gira, habían grabado demos para el álbum, mucho antes de entrar en el estudio. En el momento en que entraron en el estudio para trabajar en el álbum, ya habían acumulado 50 demos con los cuales trabajar. Las maquetas son descritas por Reynolds como "definitivamente diferentes", pero añadió que "sigue siendo Imagine Dragons, pero tenemos mucho crecimiento y maduración como una banda. Creo que el nuevo material va a ser, esperanzadamente, un paso en la dirección correcta. Estamos tratando de crear y hacer lo que sale y lo que se siente bien ". El baterista Daniel Platzman agregó que la banda es crítica de sí misma, por lo que "no hay espacio para la presión externa". 
+<p>Inspirado en gran medida por los viajes de la banda tanto en sus giras anteriores como en el Night Visions Tour, el álbum explorará la cultura mundial como un tema musical y será el tema general del álbum. Dan Reynolds dijo al periódico The Times-Picayune, de Nueva Orleans, que había "mucha inspiración para ser extraída [de la gira mundial]. Te das cuenta de que eres mucho más pequeño de lo que crees". Además, Reynolds declaró a la revista de música Rolling Stone que el siguiente álbum será "diferente" a Night Visions, y que la banda pretende que el álbum se "despeje un poco". Agregó que "hemos agregado muchas influencias de hip-hop en Night Visions, pero creo que el próximo disco será más inspirado en el rock, es demasiado pronto para decir, pero hay algunas cosas extrañas en estas canciones". Previo al anzamiento del álbum, Imagine Dragons lanzó una serie de singles para otros proyectos incluyendo una canción para la película Transformers: Age of Extinction, llamada "Battle Cry" (junio de 2014) y la canción "Warriors" para el League of Legends World Championship 2014 (septiembre de 2014).
+<p>El 24 de octubre, revelaron el sencillo principal del próximo álbum, "I Bet My Life" a través de varios fragmentos visuales en Facebook e Instagram. Fue lanzado el 27 de octubre. Será enviado a la radio alternativa de E.U. para que será reproducida el 3 de noviembre. Imagine Dragons se presentaron en el Estadio Mundialista de Seúl, Corea del Sur, en el League of Legends World Championship 2014 
+y en el espectáculo de medio tiempo en la 102.ª Grey Cup en Vancouver, Columbia Británica.
+<p>El 12 de diciembre de 2014, Imagine Dragons publicó en las redes sociales una solicitud para que sus seguidores en Estados Unidos miraran alrededor de su ciudad para buscar algunas sorpresas y publicar sus hallazgos. También insinuaron acerca de dos lugares en Las Vegas. Trabajando con Metric, con quién hicieron un conjunto acústico de tres canciones, Imagine Dragons se presentó en el Mayan Theatre de Los Ángeles el 5 de febrero de 2015. El set de media hora incluyó sus sencillos más conocidos, "It's Time" y "Radioactive" de Night Visions. La presentación fue el debut en vivo de "Summer" y "I'm So Sorry", junto con "Gold" y "I Bet My Life" del álbum Smoke + Mirrors, que fue lanzado el 17 de febrero de 2015. La gira en verano por América del Norte del 2015, comenzó en Portland, Oregón el 3 de junio. Durante la gira de la banda, Imagine Dragons lanzó dos singles sin álbum. "Roots" el 26 de agosto de 2015 y "I Was Me" el 12 de octubre de 2015 a través de iTunes. La banda también lanzó un cover de "I Love You All the Time" de Eagles of Death Metal el 18 de diciembre de 2015, en apoyo de las víctimas de los ataques de noviembre de 2015 en París. El Smoke + Mirrors Tour terminó el 5 de febrero de 2016 en Ámsterdam, Holanda.
+<p>En una entrevista, Dan Reynolds dijo a Billboard que la banda tendría un hiato(descanso) para el resto de 2016, afirmando que "Este es el año en que vamos a tomar un tiempo libre.No hemos parado en, como, seis años , Así que nos hemos forzado al menos a tomar un año de descanso. "La banda estrenó un "película de conciertos" titulada Imagine Dragons In Concert: Smoke + Mirrors, en algunos cines el 2 de marzo de 2016. La película fue Lanzado en DVD y Blu-Ray bajo el título?  Imagine Dragons: Smoke + Mirrors Live. También lanzaron la canción "Not Today" para la banda sonora de la película Yo Antes de Ti, el 28 de abril. La banda también aparece en la banda sonora de la película Escuadrón Suicida. La canción, titulada "Sucker For Pain", contiene como artistas invitados a Lil Wayne, Wiz Khalifa, Logic, Ty Dolla Sign y  X Ambassadors. La banda grabó la canción "Levitate" para la película de ciencia ficción "Pasajeros". Fue lanzada como sencillo el 28 de noviembre de 2016.
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Próximo tercer álbum de estudio (2016-presente)</font> <font color="white">*</h4></b></font>
+
+El 27 de septiembre de 2016, Imagine Dragons comenzó a insinuar sobre su tercer álbum de estudio con un tweet que decía "estudio". La banda continuó publicando mensajes crípticos en su cuenta de Twitter durante los próximos cuatro meses. El 24 de enero de 2017, la banda comenzó a publicar una serie de videos que probablemente anunciaban el primer single del álbum. Los cortos presentaban al cantante Dan Reynolds dibujando imágenes surrealistas. El código Morse estaba oculto en los videos y se traducia como "objetos del mismo color". El 31 de enero, Imagine Dragons lanzó "Believer" como el sencillo principal de su próximo disco.
+
+<font color="#E94545"><b><h3>-</font> <font color="white">Apariciones en televisión</font> <font color="#E94545">-</h3></b></font>
+
+Imagine Dragons interpretó "It's Time" en vivo en The Tonight Show con Jay Leno (2012), Jimmy Kimmel Live! (2012), Late Night con Jimmy Fallon (2012), y Conan (2013). De igual manera interpretaron "Radioactive" en vivo en Jimmy Kimmel Live! (2012), The Late Show con David Letterman (2013), The Tonight Show con Jay Leno (2013), Late Night con Jimmy Fallon (2013) y en los MTV Europe Music Awards (2013). También se presentaron en Good Morning America (2013), (2015). La banda realizó un show exclusivo para la sexta temporada final de la serie de televisión Live from the Artists Den (2013). La banda también actuó en los premios American Music Awards de 2013, MTV Europa Music Awards (2013), Grammy Awards (2014), Saturday Night Live (2014), en los Billboard Music Awards (2014) y MuchMusic Video Awards (2014). También encabezaron el concierto All-Star Target de la MLB (2014) y la inauguración del Festival Made In America Music en Los Angeles. Imagine Dragons cantó una versión de "Revolution" en The Night That Changed America: A Grammy Salute to The Beatles. (2014).
+<p>El 24 de octubre de 2013, Imagine Dragons fueron los invitados especiales y protagonizaron un episodio de Impractical Jokers de TruTV, donde los perdedores, Joe y Sal, tuvieron que actuar como "Señora Lanza" en un concierto lleno en Nikon at Jones Beach Theat. Los miembros de la banda se unieron a Murr y Q en los hijinks.
+<p>La banda también ha interpretado "I Bet My Life" en los American Music Awards de 2014, y The Ellen DeGeneres Show (2015). También se han presentado con "Shots" en The Tonight Show Starring Jimmy Fallon (2015), Jimmy Kimmel Live! (2015), y The Ellen DeGeneres Show (2015).
+<p>Imagine Dragons apareció en el primer episodio de la serie de 2015, Los Muppets, donde interpretaron parte de la canción "Roots".
+
+<font color="#E94545"><b><h3>-</font> <font color="white">Contribuciones a la caridad</font> <font color="#E94545">-</h3></b></font>
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Fundación Tyler Robinson</font> <font color="white">*</h4></b></font>
+
+En 2013, junto con la familia de Tyler Robinson, Imagine Dragons comenzó una organización benéfica llamada The Tyler Robinson Foundation, ayudando a los jóvenes a luchar contra el cáncer. Comenzando en 2014, la primera Gala anual de la Fundación Tyler Robinson se llevó a cabo en Las Vegas. Imagine Dragons se presentó para "Playing It Forward" (S1 E2) para recaudar $ 100 000 para programas de música en escuelas. En 2013, la banda se asoció con mtvU para ayudar a elegir cuatro becarios de Fulbright-mtvU. En 2013, Imagine Dragons se asoció con Do The Write Thing: Campaña Nacional para Detener la Violencia para un evento de recaudación de fondos. Imagine Dragons se presentó, como parte de unl concierto de Amnistía Internacional, "Bringing Human Rights Home" en Brooklyn el 5 de febrero de 2014. En 2015, Imagine Dragons lanzó la canción "I Was Me" para el proyecto One4, con todos los ingresos serían destinados a la Agencia de Refugiados de la ONU para apoyar a los refugiados que huyen, particularmente de Medio Oriente. Imagine Dragons también lanzó la canción "I Love You All The Time" para beneficiar a las víctimas de los ataques terroristas en París.
+
+<font color="#E94545"><b><h3>-</font> <font color="white">Estilo musical</font> <font color="#E94545">-</h3></b></font>
+
+La marca distintiva de Imagine Dragons es su "mezcla de sonido". El productor Alex Da Kid comentó una vez, cómo el sonido de Imagine Dragons era perfecto para "difuminar las líneas entre géneros". Éste era ciertamente el caso para su hit "Radioactive", que subió a lo más alto del Hot 100,  Alternative, y las listas Mainstream Top 40. Según el vocalista Dan Reynolds, la canción tenía un crossover de "rock/dubstep" que "fue fundamental para su éxito". En conjunto, el sonido de la banda es una mezcla de rock alternativo y pop, que se centra en graves profundos , fuertes sonidos de batería y poderosas voces. En la industria de la música, el sonido de Imagine Dragons se describe como claramente "rítmico".
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Influencias</font> <font color="white">*</h4></b></font>
+
+Dan Reynolds (voz principal) menciona que Arcade Fire, Muse, The Beatles, Depeche Mode, Paul Simon y Harry Nilsson, son influencias tanto personales como para la banda. En términos de éxito, da crédito al trabajo pionero de bandas como Foster the People, Mumford & Sons, que en los últimos años llevan a un nuevo nivel el indie rock en los negocios.
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Cultura de la banda</font> <font color="white">*</h4></b></font>
+
+A pesar de su rápido ascenso al estrellato internacional, Imagine Dragons mantiene una cultura de la humildad, relatabilidad y creatividad. El cantante Dan Reynolds señaló una vez que Imagine Dragons es una "banda atípica", en la que su imagen diverge de la del grupo de rock promedio.86 Tres de los cuatro miembros no están tatuados, y el grupo elige no asistir a las "afterpartys"; sobre las modas estereotipadas, Reynolds afirma que son "opciones de estilo de vida" y que aún así se mantiene el "espíritu del rock'n'roll".86 Cuando la banda optó por asistir a un "afterparty", notaron el uno al otro que "no pertenecían aquí", ya que llegaron a pie entre limosinas y coches de lujo. A menudo traen computadoras en el camino para jugar League of Legends y conectarse con los fans a través de su Twitch Channel.
+
+<font color="#E94545"><b><h3>-</font> <font color="white">Miembros de Imagine Dragons</font> <font color="#E94545">-</h3></b></font>
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Miembros actuales</font> <font color="white">*</h4></b></font>
+
+<br>Dan Reynolds - voz principal, guitarra rítmica y líder, piano, teclados, batería, percusión (2008-presente)
+<br>Ben McKee - bajo, coros, piano, teclados, batería, percusión (2009-presente)
+<br>Daniel Wayne Sermon - guitarra líder, coros, mandolina, batería, percusión (2009-presente)
+<br>Daniel Platzman - batería, percusión, coros, viola, teclados, guitarra rítmica (2011-presente)
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Antiguos miembros</font> <font color="white">*</h4></b></font>
+
+<br>Andrew Tolman - batería, percusión, coros, guitarra rítmica (2008-2011)
+<br>Brittany Tolman - piano, teclados, coros, guitarra rítmica (2009-2011)
+<br>Theresa Flaminio - piano, teclados, coros (2011-2012)
+<br>Dave Lemke – bajo, coros (2008-2009)
+<br>Aurora Florence – piano, teclados, coros, violín (2008)
+<br>Andrew Beck – guitarra, coros (2008)
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Miembros en el escenario</font> <font color="white">*</h4></b></font>
+
+William Wells - teclados, guitarra voz (2015-actualidad).
+
+<font color="white"><b><h4>*</font> <font color="#E94545">Ex-miembros en el escenario</font> <font color="white">*</h4></b></font>
+
+Ryan Walker - teclados, guitarra, percusión y voz.
+
+<font color="#E94545"><b><h3>-</font> <font color="white">Discografía</font> <font color="#E94545">-</h3></b></font>
+
+<br>Night Visions (2012)
+<br>Smoke + Mirrors (2015)
+<br>TBA (2017)
+</tr>
+<tr>
+<td bgcolor="#000000"><center><h2><font face="century gothic" color="#E94545"><b>></font> <font face="century gothic" color="WHITE"><b>FINAL</font> <font face="century gothic" color="#E94545"><b></b><</font></h2></center></td>
+</tr>
+</table>
+</center>
+
+<table>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>	
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+<td><p><IMG SRC="E:\Eduardo_Miguel_Victoria_Sánchez_No.49\Pág. Músico\Imágenes/Línea.gif" width="200"></td>
+</table>
+</center>
+ </body>
+</html>
